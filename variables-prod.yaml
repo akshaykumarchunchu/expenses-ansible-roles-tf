@@ -1,0 +1,4 @@
+login_user: root
+login_host: database-prod.akshaydaws-78s.online
+login_password: ExpenseApp@1
+DB_HOST: database-prod.akshaydaws-78s.online
